@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Nicolas, I am 18 years old and I am a student of<br>Software Analysis and Development and I am starting in<br>this wonderful world that is Development.
+Hi, my name is Nicolas, I am 19 years old and I am a student of<br>Software Analysis and Development and I am starting in<br>this wonderful world that is Development.
 
 
 ## 🌐 Socials:
